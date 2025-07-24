@@ -12,7 +12,7 @@
 🔭 **Currently:** Data Engineer at Cantonica, New York, NY  
 📚 **Education:** MS in Data Science, Stevens Institute of Technology (Dec 2024)  
 📜 **Certified:** AWS Certified Data Engineering Associate (Dec 2024)  
-🎯 **Specialties:** Data Engineering | Machine Learning | Generative AI | Cloud Computing  
+🎯 **Specialties:** Data Engineering | Machine Learning | Generative AI | Cloud Computing | Data analytics 
 📫 **Reach me at:** [dugadenihar80@gmail.com](mailto:dugadenihar80@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/nihar-dugade](https://www.linkedin.com/in/nihar-dugade/)  
 💻 **GitHub:** [github.com/nihardugade](https://github.com/nihardugade)  
