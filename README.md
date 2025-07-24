@@ -3,7 +3,7 @@
 <img align="left" width="40px" src="./assets/img/data.gif" />
 <h1>Hi 👋, I'm Nihar Dugade</h1>
 <img align="right" width="25px" src="./assets/img/code.gif" />
-<h3>A passionate Data Engineer and Machine Learning Enthusiast</h3>
+
 </span>
 
 ---
