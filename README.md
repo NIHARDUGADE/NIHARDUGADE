@@ -12,7 +12,7 @@
  📚 **Education:** MS in Data Science, Stevens Institute of Technology  
 📫 **Reach me at:** [dugadenihar80@gmail.com](mailto:dugadenihar80@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/nihar-dugade](https://www.linkedin.com/in/nihar-dugade/)  
-💻 **GitHub:** [github.com/nihardugade](https://github.com/nihardugade)  
+💻 **Website:** [github.com/nihardugade](https://nihardugade.github.io/portfolio/)  
 
 
 
